@@ -1,11 +1,10 @@
 # javascript-challenge
 JavaScript Homework - JavaScript and DOM Manipulation
 
-
 ## Deployment Link
-### [https://junettel.github.io/javascript-challenge/](https://junettel.github.io/javascript-challenge/)
+[https://junettel.github.io/javascript-challenge/](https://junettel.github.io/javascript-challenge/)
 
-## Level 1: Automatic Table and Date Search (Required)
+## [Level 1: Automatic Table and Date Search](/UFO-level-1)
 
 * Create a basic HTML web page.
 
@@ -15,7 +14,7 @@ JavaScript Homework - JavaScript and DOM Manipulation
 
 * Use a date form in the HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
 
-## Level 2: Multiple Search Categories (Optional)
+## [Level 2: Multiple Search Categories](/UFO-level-2)
 
 * Complete all of Level 1 criteria.
 
