@@ -2,7 +2,7 @@
 JavaScript Homework - JavaScript and DOM Manipulation
 
 ## Deployment Link
-[https://junettel.github.io/javascript-challenge/](https://junettel.github.io/javascript-challenge/)
+UFO-level-2: [https://junettel.github.io/javascript-challenge/](https://junettel.github.io/javascript-challenge/)
 
 ## [Level 1: Automatic Table and Date Search](/UFO-level-1)
 
@@ -26,8 +26,6 @@ JavaScript Homework - JavaScript and DOM Manipulation
   4. `country`
   5. `shape`
 
-- - -
-
 ## Dataset
 
-* [UFO Sightings Data](UFO-level-1/static/js/data.js)
+* [UFO Sightings Data](static/js/data.js)
