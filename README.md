@@ -2,8 +2,8 @@
 JavaScript Homework - JavaScript and DOM Manipulation
 
 
-# Deployment Link
-### [UFO Finder](https://junettel.github.io/javascript-challenge/)
+## Deployment Link
+### [https://junettel.github.io/javascript-challenge/](https://junettel.github.io/javascript-challenge/)
 
 - - -
 
