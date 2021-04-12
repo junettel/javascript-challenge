@@ -55,10 +55,11 @@ function dateFilter() {
   // Update table with filtered response
   var response = {filteredByDate};
 
-  // Print error message if user filter input does not match any UFO sightings
+  // Add filtered results to table
   if (response.filteredByDate.length !== 0) {
     addTableData(filteredByDate);
   } 
+  // Print error message if user filter input does not match any UFO sightings
   else {
     tbodyElement.append("tr").text("No sightings on this date, try searching for a different date");
   }
