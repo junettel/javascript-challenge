@@ -81,10 +81,11 @@ function filterResponse() {
   // Update table with filtered response
   var response = {filteredData};
 
-  // Print error message if user filter input does not match any UFO sightings
+  // Add filtered results to table
   if (response.filteredData.length !== 0) {
     addTableData(filteredData);
-  } 
+  }
+  // Print error message if user filter input does not match any UFO sightings
   else {
     tbodyElement.append("tr").text("Error, no matching results! Please try limiting search criteria.");
   }
