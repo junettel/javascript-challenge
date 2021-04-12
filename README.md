@@ -2,7 +2,7 @@
 JavaScript Homework - JavaScript and DOM Manipulation
 
 ## Deployment Links
-UFO-level-2: [https://junettel.github.io/javascript-challenge/UFO-level-2/](https://junettel.github.io/javascript-challenge/UFO-level-2/)
+UFO-level-2: [https://junettel.github.io/javascript-challenge/UFO-level-2/](https://junettel.github.io/javascript-challenge/UFO-level-2/)\
 UFO-level-1: [https://junettel.github.io/javascript-challenge/UFO-level-1/](https://junettel.github.io/javascript-challenge/UFO-level-1/)
 
 ## Background
