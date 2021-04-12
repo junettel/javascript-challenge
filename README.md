@@ -2,8 +2,8 @@
 JavaScript Homework - JavaScript and DOM Manipulation
 
 ## Deployment Links
-UFO-level-2: [https://junettel.github.io/javascript-challenge/UFO-level-2/](https://junettel.github.io/javascript-challenge/UFO-level-2/)\
-UFO-level-1: [https://junettel.github.io/javascript-challenge/UFO-level-1/](https://junettel.github.io/javascript-challenge/UFO-level-1/)
+UFO-level-1: [https://junettel.github.io/javascript-challenge/UFO-level-1/](https://junettel.github.io/javascript-challenge/UFO-level-1/)\
+UFO-level-2: [https://junettel.github.io/javascript-challenge/UFO-level-2/](https://junettel.github.io/javascript-challenge/UFO-level-2/)
 
 ## Background
 WAKE UP SHEEPLE! The extra-terrestrial menace has come to Earth and we here at `ALIENS-R-REAL` have collected all of the eye-witness reports we could to prove it! All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.
@@ -38,4 +38,4 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 ## Dataset
 
-* [UFO Sightings Data](static/js/data.js)
+* [UFO Sightings Data](UFO-level-1/static/js/data.js)
