@@ -1,5 +1,5 @@
 # javascript-challenge
-JavaScript Homework - JavaScript and DOM Manipulation
+JavaScript and DOM Manipulation
 
 ## Deployment Links
 UFO-level-1: [https://junettel.github.io/javascript-challenge/UFO-level-1/](https://junettel.github.io/javascript-challenge/UFO-level-1/)\
